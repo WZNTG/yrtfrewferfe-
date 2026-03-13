@@ -9,7 +9,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "8303496738:AAHRcdrzIUW1r-Fo5K5Zif_4EWx3UHhxzyY"
+TOKEN = "8303496738:AAG5Kr64yBwGRZdUVxC4LCtYOSRvPT-BXPA"
 ADMIN_ID = 5394084759
 
 logging.basicConfig(level=logging.INFO)
